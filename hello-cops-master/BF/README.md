@@ -1,0 +1,2 @@
+BF or Brainfuck is an esoteric language which uses bitwise manipulations to execute commands .
+The provided text file shows "Hello COPS" written in BrainFuck although to read it you'll require a brainfuck interpreter (like https://www.dcode.fr/brainfuck-language) which you can find online.
