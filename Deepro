@@ -1,0 +1,7 @@
+public class Deepro
+{
+  public static void main(String args[])
+  {
+    System.out.println("Hello COPS");
+  }
+}
