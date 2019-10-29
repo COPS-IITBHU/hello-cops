@@ -1,0 +1,7 @@
+#include<iostrean.h>
+#include<conio.h>
+int main()
+{
+cout<<"HELLO COPS";
+return 0;
+}
