@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+  printf("Manas Asati");
+  return 0;
+  }
