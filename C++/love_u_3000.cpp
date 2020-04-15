@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 #define inf 10000000000000
-#define int long long int
 #define hell (int)(1e9+7)
 
 using namespace std;
