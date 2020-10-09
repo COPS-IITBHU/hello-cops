@@ -11,6 +11,6 @@ cout<<"Hello COPS";
 C:
 #include<stdio.h> 
 int main(){
-printf("Hello Wordl");
+printf("Hello COPS");
 }
 
