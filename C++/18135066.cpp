@@ -1,5 +1,8 @@
-#include<iostream>
-void main()
-{
-cout<<"HELLO COPS";
-}
+#include <iostream>
+using namespace std;
+int main(){
+    cout<<"hello cops"<<endl;
+
+
+    return 0;
+} 
